@@ -6,7 +6,7 @@ Currently i use some libraries to complete my application
 - JWT = Generating and validating token 
 - JPA = Object and Entity mapper
 - REST = JSON as a response
-- Lombok = Slf4j, @Data to reducing setter getter at entity class
+- Lombok = @Slf4j for log, @Data to reducing setter getter code at entity class
 - Inceptor = Logging and validating token before entering the controller
 - Exception Handler = give the response when there is an error
 - Log file with date = archive log by date
